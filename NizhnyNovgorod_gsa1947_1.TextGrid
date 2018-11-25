@@ -1,0 +1,286 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 761.609
+tiers? <exists>
+size = 3
+item []:
+    item[1]:
+        class = "IntervalTier"
+        name = "@gsa"
+        xmin = 0.0
+        xmax = 761.609
+        intervals: size = 43
+        intervals [1]
+            xmin = 0.0
+            xmax = 129.99
+            text = ""
+        intervals [2]
+            xmin = 129.99
+            xmax = 133.03
+            text = "вот, ааа когда' они прие'хали на Сахали'н"
+        intervals [3]
+            xmin = 133.03
+            xmax = 136.21
+            text = ""
+        intervals [4]
+            xmin = 136.21
+            xmax = 139.12
+            text = "те'тя Мару'ся вы'шла за'муж за па'пиного дру'га"
+        intervals [5]
+            xmin = 139.12
+            xmax = 139.17
+            text = ""
+        intervals [6]
+            xmin = 139.17
+            xmax = 141.56
+            text = "поэ'тому здесь у нас таки'е о'чень те'сные свя'зи"
+        intervals [7]
+            xmin = 141.56
+            xmax = 142.21
+            text = ""
+        intervals [8]
+            xmin = 142.21
+            xmax = 144.31
+            text = "и где'-то че'рез год с небольши'м"
+        intervals [9]
+            xmin = 144.31
+            xmax = 144.335
+            text = ""
+        intervals [10]
+            xmin = 144.335
+            xmax = 146.73
+            text = "на Сахали'не родила'сь я и моя'"
+        intervals [11]
+            xmin = 146.73
+            xmax = 147.147
+            text = ""
+        intervals [12]
+            xmin = 147.147
+            xmax = 148.91
+            text = "двою'родная сестра Ле'на"
+        intervals [13]
+            xmin = 148.91
+            xmax = 150.01
+            text = ""
+        intervals [14]
+            xmin = 150.01
+            xmax = 150.43
+            text = "вот"
+        intervals [15]
+            xmin = 150.43
+            xmax = 150.815
+            text = ""
+        intervals [16]
+            xmin = 150.815
+            xmax = 151.875
+            text = " так интере'сно вот"
+        intervals [17]
+            xmin = 151.875
+            xmax = 152.14
+            text = ""
+        intervals [18]
+            xmin = 152.14
+            xmax = 155.29
+            text = "они' познако'мились и так всю жи'знь вот и про'жили о'чень дружи'ли"
+        intervals [19]
+            xmin = 155.29
+            xmax = 156.0
+            text = ""
+        intervals [20]
+            xmin = 156.0
+            xmax = 156.73
+            text = "все вре'мя"
+        intervals [21]
+            xmin = 156.73
+            xmax = 156.76
+            text = ""
+        intervals [22]
+            xmin = 156.76
+            xmax = 158.63
+            text = "и па'па вот его' друг Алекса'ндр"
+        intervals [23]
+            xmin = 158.63
+            xmax = 159.01
+            text = ""
+        intervals [24]
+            xmin = 159.01
+            xmax = 160.63
+            text = "и ма'ма с те'тей Ма'русей"
+        intervals [25]
+            xmin = 160.63
+            xmax = 163.02
+            text = ""
+        intervals [26]
+            xmin = 163.02
+            xmax = 165.39
+            text = "к сожале'нию сейча'с уже'"
+        intervals [27]
+            xmin = 165.39
+            xmax = 165.84
+            text = ""
+        intervals [28]
+            xmin = 165.84
+            xmax = 167.65
+            text = "никого' из них в живы'х нет"
+        intervals [29]
+            xmin = 167.65
+            xmax = 168.26
+            text = ""
+        intervals [30]
+            xmin = 168.26
+            xmax = 169.77
+            text = "это коне'чно печа'льно о'чень"
+        intervals [31]
+            xmin = 169.77
+            xmax = 170.54
+            text = ""
+        intervals [32]
+            xmin = 170.54
+            xmax = 171.48
+            text = "а я вы'росла уже'"
+        intervals [33]
+            xmin = 171.48
+            xmax = 172.375
+            text = ""
+        intervals [34]
+            xmin = 172.375
+            xmax = 176.17
+            text = "мы пра'вда мно'го путеше'ствовали потому' что па'па учи'лся в Ленингра'де потом"
+        intervals [35]
+            xmin = 176.17
+            xmax = 176.98
+            text = ""
+        intervals [36]
+            xmin = 176.98
+            xmax = 178.12
+            text = "пото'м мы жи'ли в"
+        intervals [37]
+            xmin = 178.12
+            xmax = 180.26
+            text = ""
+        intervals [38]
+            xmin = 180.26
+            xmax = 181.09
+            text = "И'жевске"
+        intervals [39]
+            xmin = 181.09
+            xmax = 181.12
+            text = ""
+        intervals [40]
+            xmin = 181.12
+            xmax = 182.49
+            text = " на Да'льнем Восто'ке"
+        intervals [41]
+            xmin = 182.49
+            xmax = 183.08
+            text = ""
+        intervals [42]
+            xmin = 183.08
+            xmax = 186.4
+            text = "как вое'нные тогда почему'-то переезжа'ли очень ча'сто"
+        intervals [43]
+            xmin = 186.4
+            xmax = 761.609
+            text = ""
+    item[2]:
+        class = "IntervalTier"
+        name = "gsa@gesture"
+        xmin = 0.0
+        xmax = 761.609
+        intervals: size = 11
+        intervals [1]
+            xmin = 0.0
+            xmax = 129.99
+            text = ""
+        intervals [2]
+            xmin = 129.99
+            xmax = 133.03
+            text = "поправление волос"
+        intervals [3]
+            xmin = 133.03
+            xmax = 139.17
+            text = ""
+        intervals [4]
+            xmin = 139.17
+            xmax = 141.56
+            text = "вращение руками"
+        intervals [5]
+            xmin = 141.56
+            xmax = 163.04
+            text = ""
+        intervals [6]
+            xmin = 163.04
+            xmax = 164.24
+            text = "поднесение руки к лицу"
+        intervals [7]
+            xmin = 164.24
+            xmax = 173.245
+            text = ""
+        intervals [8]
+            xmin = 173.245
+            xmax = 175.025
+            text = "движение рукой"
+        intervals [9]
+            xmin = 175.025
+            xmax = 175.29
+            text = ""
+        intervals [10]
+            xmin = 175.29
+            xmax = 178.86
+            text = "движение пальцами рук"
+        intervals [11]
+            xmin = 178.86
+            xmax = 761.609
+            text = ""
+    item[3]:
+        class = "IntervalTier"
+        name = "gsa@gesture-meaning"
+        xmin = 0.0
+        xmax = 761.609
+        intervals: size = 11
+        intervals [1]
+            xmin = 0.0
+            xmax = 129.99
+            text = ""
+        intervals [2]
+            xmin = 129.99
+            xmax = 133.03
+            text = "волнительность"
+        intervals [3]
+            xmin = 133.03
+            xmax = 139.17
+            text = ""
+        intervals [4]
+            xmin = 139.17
+            xmax = 141.56
+            text = "желание донести свою мысль"
+        intervals [5]
+            xmin = 141.56
+            xmax = 163.04
+            text = ""
+        intervals [6]
+            xmin = 163.04
+            xmax = 164.24
+            text = "задумчивость"
+        intervals [7]
+            xmin = 164.24
+            xmax = 173.245
+            text = ""
+        intervals [8]
+            xmin = 173.245
+            xmax = 175.025
+            text = "показатель действия"
+        intervals [9]
+            xmin = 175.025
+            xmax = 175.29
+            text = ""
+        intervals [10]
+            xmin = 175.29
+            xmax = 178.86
+            text = "перечисление действий"
+        intervals [11]
+            xmin = 178.86
+            xmax = 761.609
+            text = ""
