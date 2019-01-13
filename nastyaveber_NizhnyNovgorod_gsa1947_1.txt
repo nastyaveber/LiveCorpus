@@ -1,0 +1,185 @@
+# sent_id = 8
+# text = вот / ааа когда они приехали на Сахалин
+1	вот	вот	PART	_	_	0	root	_	_
+2	/	/	PUNCT	_	_	1	punct	_	_
+3	ааа	аа	INTJ	_
+4	когда	когда	SCONJ	_	_	6	mark	_	_
+5	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	6	nsubj	_	_
+6	приехали	приехать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	_
+7	на	на	ADP	_	_	8	case	_	_
+8	Сахалин	Сахалин	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obl	_	SpacesAfter=\r\n\r\n
+±
+gsa@
+±
+# sent_id = 10
+# text = ааа
+1	ааа	аа	INTJ	_	SpacesAfter=\s\r\n\r\n
+±
+gsa@
+±
+# sent_id = 12
+# text = тетя Маруся вышла замуж за папиного друга поэтому здесь у нас такие очень тесные связи
+1	тетя	тетя	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+2	Маруся	Маруся	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+3	вышла	выйти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	замуж	замуж	ADV	_	Degree=Pos	3	advmod	_	_
+5	за	за	ADP	_	_	7	case	_	_
+6	папиного	папин	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	друга	друг	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	3	obl	_	_
+8	поэтому	поэтому	ADV	_	Degree=Pos	15	advmod	_	_
+9	здесь	здесь	ADV	_	Degree=Pos	15	advmod	_	_
+10	у	у	ADP	_	_	11	case	_	_
+11	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1	15	nmod	_	_
+12	такие	такой	DET	_	Case=Nom|Number=Plur	15	det	_	_
+13	очень	очень	ADV	_	Degree=Pos	14	obl	_	_
+14	тесные	тесный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	15	amod	_	_
+15	связи	связь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	3	obj	_	SpacesAfter=\s\r\n\r\n
+±
+gsa@
+±
+# sent_id = 14
+# text = и где-то через год с небольшим / на Сахалине родилась я и моя / двоюродная сестра Лена
+1	и	и	CCONJ	_	_	2	cc	_	_
+2	где-то	где-то	ADV	_	Degree=Pos	10	advmod	_	_
+3	через	через	ADP	_	_	4	case	_	_
+4	год	год	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obl	_	_
+5	с	с	ADP	_	_	6	case	_	_
+6	небольшим	небольшой	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	2	obl	_	_
+7	/	/	PUNCT	_	_	9	punct	_	_
+8	на	на	ADP	_	_	9	case	_	_
+9	Сахалине	Сахалин	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	obl	_	_
+10	родилась	рождаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+11	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	10	nsubj	_	_
+12	и	и	PART	_	_	13	advmod	_	_
+13	моя	мой	DET	_	Case=Nom|Gender=Fem|Number=Sing	16	det	_	_
+14	/	/	PUNCT	_	_	16	punct	_	_
+15	двоюродная	двоюродный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
+16	сестра	сестра	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
+17	Лена	Лена	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	16	appos	_	SpacesAfter=\s\r\n\r\n
+±
+# sent_id = 17
+# text = вот / так интересно вот / они познакомились и так всю жизнь вот и прожили очень дружили / все время
+1	вот	вот	PART	_	_	4	advmod	_	_
+2	/	/	PUNCT	_	_	4	punct	_	_
+3	так	так	ADV	_	Degree=Pos	4	obl	_	_
+4	интересно	интересный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+5	вот	вот	PART	_	_	8	advmod	_	_
+6	/	/	PUNCT	_	_	8	punct	_	_
+7	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	8	nsubj	_	_
+8	познакомились	знакомиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	4	csubj	_	_
+9	и	и	CCONJ	_	_	15	cc	_	_
+10	так	так	ADV	_	Degree=Pos	15	advmod	_	_
+11	всю	весь	DET	_	Case=Acc|Gender=Fem|Number=Sing	12	det	_	_
+12	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	15	obj	_	_
+13	вот	вот	PART	_	_	12	advmod	_	_
+14	и	и	PART	_	_	15	advmod	_	_
+15	прожили	жить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	_
+16	очень	очень	ADV	_	Degree=Pos	17	advmod	_	_
+17	дружили	дружить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	15	parataxis	_	_
+18	/	/	PUNCT	_	_	17	punct	_	_
+19	все	весь	DET	_	Case=Acc|Gender=Neut|Number=Sing	20	det	_	_
+20	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	17	obj	_	SpacesAfter=\s\r\n\r\n
+±
+gsa@
+±
+# sent_id = 19
+# text = и папа вот его друг Александр / и мама с тетей Марусей
+1	и	и	CCONJ	_	_	5	cc	_	_
+2	папа	папа	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+3	вот	вот	PART	_	_	4	advmod	_	_
+4	его	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	5	nmod	_	_
+5	друг	друг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+6	Александр	Александр	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	appos	_	_
+7	/	/	PUNCT	_	_	9	punct	_	_
+8	и	и	CCONJ	_	_	9	cc	_	_
+9	мама	мама	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	conj	_	_
+10	с	с	ADP	_	_	11	case	_	_
+11	тетей	тетя	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	9	nmod	_	_
+12	Марусей	Маруся	PROPN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	11	appos	_	SpacesAfter=\s\r\n\r\n
+±
+gsa@
+±
+# sent_id = 21
+# text = к сожалению сейчас уже
+1	к	к	ADP	_	_	2	case	_	_
+2	сожалению	сожаление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	0	root	_	_
+3	сейчас	сейчас	ADV	_	Degree=Pos	2	obl	_	_
+4	уже	уже	ADV	_	Degree=Pos	2	advmod	_	SpacesAfter=\r\n\r\n
+±
+gsa@
+±
+# sent_id = 23
+# text = никого из них в живых нет
+1	никого	никто	PRON	_	Case=Gen	6	nsubj	_	_
+2	из	из	ADP	_	_	3	case	_	_
+3	них	они	PRON	_	Case=Gen|Number=Plur|Person=3	1	nmod	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	живых	живой	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	6	obl	_	_
+6	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\r\n\r\n
+±
+gsa@
+±
+# sent_id = 25
+# text = это конечно печально очень
+1	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+2	конечно	конечно	ADV	_	Degree=Pos	3	obl	_	_
+3	печально	печальный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	_
+4	очень	очень	ADV	_	Degree=Pos	3	advmod	_	SpacesAfter=\s\r\n\r\n
+±
+# sent_id = 26
+# text = # time_begin = 2:50
+1	#	#	PUNCT	_	_	2	punct	_	_
+2	time_begin	time_begiн-лат	NOUN	_	_	0	root	_	_
+3	=	=	SYM	_	_	2	nmod	_	_
+4	2	2	NUM	_	_	3	nummod	_	SpaceAfter=No
+5	:	:	PUNCT	_	_	4	punct	_	SpaceAfter=No
+6	50	50	NUM	_	_	4	nummod	_	SpacesAfter=\r\n\r\n
+±
+gsa@
+±
+# sent_id = 28
+# text = а я выросла уже / мы правда много путешествовали потому что папа учился в Ленинграде потом
+1	а	а	CCONJ	_	_	3	cc	_	_
+2	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	3	nsubj	_	_
+3	выросла	вырасти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	уже	уже	ADV	_	Degree=Pos	3	advmod	_	_
+5	/	/	PUNCT	_	_	9	punct	_	_
+6	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	9	nsubj	_	_
+7	правда	правда	ADV	_	Degree=Pos	9	advmod	_	_
+8	много	много	ADV	_	Degree=Pos	9	advmod	_	_
+9	путешествовали	путешествовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	_
+10	потому	потому	ADV	_	Degree=Pos	13	mark	_	_
+11	что	что	SCONJ	_	_	10	fixed	_	_
+12	папа	папа	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+13	учился	учиться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	9	advcl	_	_
+14	в	в	ADP	_	_	15	case	_	_
+15	Ленинграде	Ленинград	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	13	obl	_	_
+16	потом	потом	ADV	_	Degree=Pos	13	advmod	_	SpacesAfter=\s\r\n\r\n
+±
+gsa@
+±
+# sent_id = 30
+# text = потом мы жили в / Ижевске / на Дальнем Востоке
+1	потом	потом	ADV	_	Degree=Pos	3	advmod	_	_
+2	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	3	nsubj	_	_
+3	жили	жить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	в	в	ADP	_	_	6	case	_	_
+5	/	/	PUNCT	_	_	6	punct	_	_
+6	Ижевске	Ижевск	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	obl	_	_
+7	/	/	PUNCT	_	_	10	punct	_	_
+8	на	на	ADP	_	_	10	case	_	_
+9	Дальнем	дальний	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	Востоке	Восток	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	nmod	_	SpacesAfter=\r\n\r\n
+±
+gsa@
+±
+# sent_id = 32
+# text = как военные тогда почему-то переезжали очень часто
+1	как	как	SCONJ	_	_	5	mark	_	_
+2	военные	военный	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	_
+3	тогда	тогда	ADV	_	Degree=Pos	5	advmod	_	_
+4	почему-то	почему-то	ADV	_	Degree=Pos	5	advmod	_	_
+5	переезжали	переезжать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	очень	очень	ADV	_	Degree=Pos	7	advmod	_	_
+7	часто	часто	ADV	_	Degree=Pos	5	advmod	_	SpacesAfter=\s\r\n\r\n
+±
